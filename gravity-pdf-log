@@ -1,0 +1,52 @@
+2022-04-08 08:36:38 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:01 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:03 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"46 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:03 (-05:00) - NOTICE --> Processing PDF endpoint.
+|--> {"pid":"62500c1f043c9","lid":417,"action":"view"}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Controller/Controller_PDF.php","line":237,"class":"GFPDF\\Controller\\Controller_PDF","function":"process_pdf_endpoint"}
+2022-04-08 08:37:03 (-05:00) - WARNING --> Gravity PDF does not have native support for this field type "form". Falling back to default Gravity Forms output.
+|--> {"field":{"GF_Field":{"type":"form","id":132,"formId":28,"label":"Shareholder","adminLabel":"","isRequired":false,"size":"large","errorMessage":"","visibility":"visible","inputs":null,"description":"","allowsPrepopulate":false,"inputMask":false,"inputMaskValue":"","inputMaskIsCustom":false,"maxLength":"","inputType":"","labelPlacement":"","descriptionPlacement":"","subLabelPlacement":"","placeholder":"","cssClass":"","inputName":"","noDuplicates":false,"defaultValue":"","enableAutocomplete":false,"autocompleteAttribute":"","choices":"","conditionalLogic":"","productField":"","layoutGridColumnSpan":12,"enableEnhancedUI":0,"layoutGroupId":"f49ba369","multipleFiles":false,"maxFiles":"","calculationFormula":"","calculationRounding":"","enableCalculation":"","disableQuantity":false,"displayAllCategories":false,"useRichTextEditor":false,"collapsibleSections_enableCollapsible":"none","collapsibleSections_descriptionPlacement":"form_setting","collapsibleSections_endSectionDisplay":"default","errors":[],"gpnfForm":"26","gpnfFields":["1","5"],"checkboxLabel":"","pageNumber":11,"fields":"","displayOnly":"","gp-nested-forms_fields":"","gp-nested-forms_form":""}}}
+|--> {"memory_peak_usage":"58 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Model/Model_PDF.php","line":1537,"class":"GFPDF\\Model\\Model_PDF","function":"get_field_class"}
+2022-04-08 08:37:03 (-05:00) - NOTICE --> No optional configuration file exists for TAXTIME-application-for-dba.php
+|--> []
+|--> {"memory_peak_usage":"58 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Templates.php","line":533,"class":"GFPDF\\Helper\\Helper_Templates","function":"get_config_class"}
+2022-04-08 08:37:21 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:23 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:31 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:46 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:38:29 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"46 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:39:32 (-05:00) - NOTICE 
