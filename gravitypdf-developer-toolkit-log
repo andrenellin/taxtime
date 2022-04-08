@@ -1,0 +1,135 @@
+2022-04-08 08:36:38 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:36:38 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:36:38 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:36:50 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:01 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:01 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:01 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:03 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:03 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:03 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:21 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:21 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:21 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:23 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:23 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:23 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:31 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:31 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:31 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:46 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:46 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:46 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:37:58 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:38:29 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:38:29 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:38:29 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"48 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:38:59 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
+2022-04-08 08:39:32 (-05:00) - NOTICE --> Log initialized
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Logger.php","line":122,"class":"GFPDF\\Helper\\Helper_Logger","function":"setup_logger"}
+2022-04-08 08:39:32 (-05:00) - NOTICE --> Gravity PDF Developer Toolkit plugin fully loaded
+|--> []
+|--> {"memory_peak_usage":"52 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":320,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"init"}
+2022-04-08 08:39:32 (-05:00) - NOTICE --> Get plugin license details
+|--> {"license":"196f041acd8dcf689dde3e9644057d68\t","status":"active","message":"Your support license key has been successfully validated."}
+|--> {"memory_peak_usage":"54 MB","file":"/home/customer/www/taxtime.sblik.com/public_html/wp-content/plugins/gravity-forms-pdf-extended/src/Helper/Helper_Abstract_Addon.php","line":428,"class":"GFPDF\\Helper\\Helper_Abstract_Addon","function":"get_license_info"}
